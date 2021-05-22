@@ -1,4 +1,4 @@
-"# Docket" 
+**#Docket**
 
 Android Studio'da Kotlin,Retrofit ve MVVM kullanarak geliştirdiğim uygulamamda https://newsapi.org/ adresinden alınan API yardımıyla son dakika haberleri gösterilmektedir.Uygulama açıldığında son dakika haberleri,kaynaklarıyla beraber listelenmektedir. Sonrasında okumak üzere haberler kaydedilebilmektedir. Arama yardımıyla ilgili anahtar kelime son dakika haberlerinde aranır.
 
